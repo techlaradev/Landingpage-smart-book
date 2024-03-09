@@ -1,11 +1,11 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "Smart com linhas escaneáveis: CodeJournal"
+excerpt: "Reinvente a forma como você captura suas ideias com os cadernos inteligentes da nossa marca. Equipados com linhas escaneáveis e tecnologia de ponta, nossos cadernos são mais do que simplesmente páginas em branco – são portais para a organização e a criatividade."
+coverImage: "/assets/blog/dynamic-routing/Designer_one.jpeg"
+date: "2024-03-08T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Lara Ayne
+  picture: "/assets/blog/authors/laraayne.jpg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---

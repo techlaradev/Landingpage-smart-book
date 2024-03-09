@@ -1,5 +1,4 @@
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
 
 export function Footer() {
   return (
@@ -7,23 +6,36 @@ export function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Statically Generated with Next.js.
+            Work Smarter. Not Harder.
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href="https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Read Documentation
-            </a>
-            <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
-            >
-              View on GitHub
-            </a>
+            <p>
+              <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
+                Contate-nos
+              </h3>
+            </p>
+            <ul>
+              <li>
+                <h2>
+                  <p>
+                    {" "}
+                    <a href="mailto:sac@besmart.com.br">sac@besmart.com.br</a>
+                  </p>
+                </h2>
+              </li>
+              <li>
+                <h2>
+                  <p>
+                    <a href="phone"> +55 (11)991475862</a>
+                  </p>
+                </h2>
+              </li>
+            </ul>
           </div>
         </div>
+        <footer className="text-3x1 font-bold justify-center">
+          <p>&copy; 2024 Be Smart LTDA. Todos os direitos reservados.</p>
+        </footer>
       </Container>
     </footer>
   );
