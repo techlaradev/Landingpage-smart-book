@@ -2,10 +2,10 @@
 title: "Kit de Folhas-Refil para cadernos Smart"
 excerpt: "Introduza uma nova dimensão de versatilidade aos seus cadernos inteligentes com os papéis refil da nossa linha. Feitos com materiais de alta qualidade e compatíveis com diversos modelos, esses refis garantem uma experiência de escrita suave e duradoura. Personalize seu caderno conforme suas necessidades, trocando os papéis com facilidade e mantendo suas anotações sempre organizadas e acessíveis."
 coverImage: "/assets/blog/preview/almasso.jpeg"
-date: "2020-03-16T05:35:07.322Z"
+date: "2024-03-08T05:35:07.322Z"
 author:
   name: Marcelo Barbosa
-  picture: "/Marcelo.jpg"
+  picture: "/assets/blog/Marcelo.jpg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
