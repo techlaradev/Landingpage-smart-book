@@ -5,7 +5,7 @@ coverImage: "/assets/blog/preview/almasso.jpeg"
 date: "2024-03-08T05:35:07.322Z"
 author:
   name: Marcelo Barbosa
-  picture: "/assets/blog/Marcelo.jpg"
+  picture: "/assets/blog/authors/Marcelo.jpg"
 ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
